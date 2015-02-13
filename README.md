@@ -4,7 +4,8 @@ This is a series of userscripts that run on specific web pages that must be adde
 I encourage our cohort to make pull requests if they have improvements or even suggestions for a better way to do this.
 
 # Pull Requests
-- Please say what file you are changing and remember to export the new .zip. Tampermonkey has some issues importing files from my experience, but the .zip works fine. 
+- Please say what files you are changing.
+- Remember to export the new .zip. Tampermonkey has some issues importing files from my experience, but the .zip works fine. 
 - Please update the version # in the file you are changing. (look for the @version tag)
 
 # Installation
